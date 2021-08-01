@@ -1,0 +1,22 @@
+{
+  "name": "@octodb/backend-service",
+  "version": "0.1.0",
+  "description": "Helper module used to implement a backend service for OctoDB",
+  "author": "Bernardo Ramos",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/octodb/backend-service.git"
+  },
+  "dependencies": {
+    "frame-stream": "^2.0.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "octodb",
+    "backend",
+    "user",
+    "auth",
+    "authorization",
+    "service"
+  ]
+}
