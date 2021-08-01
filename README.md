@@ -18,6 +18,8 @@ npm install @octodb/backend-service
 
 ## Usage
 
+This is the service skeleton:
+
 ```js
 const app = require('@octodb/backend-service');
 const port = 4321
@@ -41,6 +43,8 @@ app.run(port, function() {
   console.log('auth service ready!')
 })
 ```
+
+More details in the [OctoDB documentation](https://github.com/octodb/docs/blob/master/auth-service.md)
 
 
 # License
